@@ -10,6 +10,7 @@ intelligence case studies, and full-stack application prototypes.
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [SCAI Unified Dashboard](https://github.com/azriqat/SCAI-Dashboard) *(private repository)* | Designed and built an internal operations dashboard for ASU SCAI that unifies live device monitoring, Smartsheet requests, student-worker workflows, and room-condition reporting. | Python, Flask, Smartsheet API, AWS EC2, HTML/CSS |
 | [InflationScope](https://github.com/dhrxv8/InflationScope) | Live inflation forecasting and Fed policy simulator using FRED macroeconomic data. | Python, Streamlit, Plotly, Prophet, SARIMA |
 | [Graph-Based Offshore Entity Risk Scanner](https://github.com/dhrxv8/Graph-Based-Offshore-Entity-Risk-Scanner) | Explainable graph analytics pipeline for prioritizing structural-risk signals in offshore entity networks. | Python, NetworkX, pandas, scikit-learn, Streamlit |
 | [Northwind Data Analytics](https://github.com/dhrxv8/Northwind-Data-Analytics) | Business intelligence case study translating revenue, seasonality, and customer profitability analysis into recommendations. | SQL, Tableau, Excel, PowerPoint |
